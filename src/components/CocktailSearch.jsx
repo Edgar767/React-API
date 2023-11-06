@@ -59,7 +59,7 @@ function CocktailSearch() {
     <div className="container mx-auto p-4">
       <div className="flex items-center justify-center mt-1">
       <img src={cocktailImage} alt="coctel" className="w-12 h-19" />
-        <a href="./App" className="text-3xl font-bold mb-4 text-yellow-600 hover:text-yellow-400 mt-4">Coctails Mens</a>
+        <a href="/" className="text-3xl font-bold mb-4 text-yellow-600 hover:text-yellow-400 mt-4">Coctails Mens</a>
       </div>
       <div className="flex justify-center mt-4">
         <input
